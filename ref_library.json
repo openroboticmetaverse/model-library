@@ -50,6 +50,14 @@
       "description": "Franka Emika Panda is a collaborative robot arm designed for industrial and research applications.",
       "created_at": "2024-10-01T00:00:00Z",
       "updated_at": "2024-10-01T00:00:00Z"
+    },
+    {
+      "name": "MCX Anthropomorphic Robot",
+      "file": "/robots/gltf/mcx_anthromorphic2/MCX-Anthropomorphic2-Robot-R00.glb",
+      "file_type": "glb",
+      "description": "Motorcotex Anthropomorphic2 Robot.",
+      "created_at": "2024-10-01T00:00:00Z",
+      "updated_at": "2024-10-01T00:00:00Z"
     }
   ],
   "objects": [
@@ -58,14 +66,6 @@
       "file": "/objects/gltf/apple_low_poly/apple-low-poly.gltf",
       "file_type": "gltf",
       "description": "A low poly model of an apple.",
-      "created_at": "2024-10-01T00:00:00Z",
-      "updated_at": "2024-10-01T00:00:00Z"
-    },
-    {
-      "name": "MCX Anthropomorphic Robot",
-      "file": "/robots/gltf/mcx_anthromorphic2/MCX-Anthropomorphic2-Robot-R00.glb",
-      "file_type": "glb",
-      "description": "Motorcotex Anthropomorphic2 Robot.",
       "created_at": "2024-10-01T00:00:00Z",
       "updated_at": "2024-10-01T00:00:00Z"
     }
