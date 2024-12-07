@@ -63,7 +63,7 @@
     },
     {
       "name": "MCX Anthropomorphic Robot",
-      "file": "/robots/mcx_anthromorphic2/MCX-Anthropomorphic2-Robot-R00.glb",
+      "file": "/robots/gltf/mcx_anthromorphic2/MCX-Anthropomorphic2-Robot-R00.glb",
       "file_type": "glb",
       "description": "Motorcotex Anthropomorphic2 Robot.",
       "created_at": "2024-10-01T00:00:00Z",
