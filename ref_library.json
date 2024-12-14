@@ -13,7 +13,7 @@
     },
     {
       "name": "Franka Panda",
-      "file": "/robots/urdf/franka_description/robots/panda.urdf.xacro",
+      "file": "/robots/urdf/franka_description/robots/panda_arm_hand.urdf.xacro",
       "file_type": "urdf",
       "description": "Franka Panda is a 7-axis collaborative robot arm designed for research and industrial applications.",
       "created_at": "2024-10-01T00:00:00Z",
